@@ -59,7 +59,7 @@ Unauthorized deployment constitutes a serious computer crime offense in virtuall
 How to launch it 
 NightmareForge v2.3 – Educational Execution Demo (LAB ONLY)
 ===========================================================
-1.  git clone https://github.com/APT_BOTNETS_MAASTOOLKIT.git
+1.  git clone https://github.com/teekay92/APT_BOTNETS_MAASTOOLKIT.git
 2.  cd APT_BOTNETS_MAASTOOLKIT
 3. chmod +x install.sh nightmareforge.py
 4. ./install.sh                     # Auto-installs deps + PyQt6 + launches GUI
